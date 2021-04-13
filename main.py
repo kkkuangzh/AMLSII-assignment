@@ -1,6 +1,6 @@
 # add file path of each task to system path
 import sys
-sys.path += ['./A/', './B/', './utility']
+sys.path += ['./Track1/', './Track2/', './utility']
 from extract_patches import *
 from help_functions import *
 from Network import *
