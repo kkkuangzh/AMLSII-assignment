@@ -23,7 +23,7 @@ Additionally, [Set5](http://people.rennes.inria.fr/Aline.Roumy/results/SR_BMVC12
 All the codes are written in python 3.6.8 environment and experimented on Linux servers and Mac OS. 
 
 Some packetages needed for this task are given here long with its version. 
-
+*tensorflow is not the newest version due to server constraints*
 
 + keras 2.3.1
 + numpy 1.19.5
