@@ -1,5 +1,5 @@
 
-# AMLS II assignment
+# Image Super-Resolution
 ---
 You can get eveything that's needed for the assignment from [here](https://drive.google.com/drive/folders/186Q3Q9QyNmPO6SVMpC6lfanDtHnITuU6?usp=sharing).
 
